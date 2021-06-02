@@ -17,4 +17,5 @@ The user input upper and lower bounds of the temperature range they want for the
 ![map of cities with max temperature between 70 and 90](/Vacation_Search/WeatherPy_vacation_map.png)  
   
 I selected 4 cities to create a travel itinerary.    
-![A nice Indonesian vacation](Vacation_Itinerary/WeatherPy_travel_map.png)
+![A nice Indonesian vacation](Vacation_Itinerary/WeatherPy_travel_map.png)  
+  

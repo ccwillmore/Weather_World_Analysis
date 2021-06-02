@@ -14,7 +14,7 @@ Using Google place API I extracted a hotel within 5,000 meters of the latitude a
   
 The user input upper and lower bounds of the temperature range they want for their vacation.  That input was used to filter the data frame to just the cities and hotels that are between the upper and lower bounds.  
   
-![map of cities with max temperature between 70 and 90]('/WeatherPy_vacation_map.png)  
+![map of cities with max temperature between 70 and 90](/Vacation_Search/WeatherPy_vacation_map.png)  
   
 I selected 4 cities to create a travel itinerary.    
-![A nice Indonesian vacation]('\Vacation_Itinerary\WeatherPy_travel_map.png)
+![A nice Indonesian vacation](Vacation_Itinerary/WeatherPy_travel_map.png)
